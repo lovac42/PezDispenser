@@ -22,10 +22,10 @@ Place icons in profile media folder.
 Icons can be any web image (jpg, png), but renamed to ```.ico```.
 
 ### Name Format:
-File must follow strict filename prefixed by ```_tag_``` and ends with ```.ico```.
+File must follow strict filename prefixed by ```_tag_``` and ends with ```.ico```.  
 e.g. japanese = ```_tag_japanese.ico```  
 
-:(colon) are replaced by _(underscore)
+:(colon) are replaced by _(underscore)  
 e.g. science::chemistry = ```_tag_science__chemistry.ico```  
 
 
